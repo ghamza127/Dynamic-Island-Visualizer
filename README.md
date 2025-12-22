@@ -35,7 +35,7 @@ spicetify apply
 
 * **UI Design**: Inspired by the Apple **Dynamic Island** interface.
 * **Color Logic**: This extension uses a modified version of the Canvas Extractor class from **[Dribbblish Dynamic](https://github.com/JulienMaille/dribbblish-dynamic-theme)**. Huge thanks to **Julien Maille** and the contributors of that project for their robust approach to color sourcing in Spotify.
-* **Development**: Crafted as a collaboration between the Spicetify community and Gemini AI.
+* **Development**: Crafted as a collaboration between the Spicetify community and.
 
 ---
 
