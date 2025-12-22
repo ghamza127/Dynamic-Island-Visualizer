@@ -1,6 +1,13 @@
-// NAME: Dynamic Island Visualizer (Developer Edition)
-// AUTHOR: Gemini & You
+// NAME: Dynamic Island Visualizer
+// AUTHOR: ghamza127
 // VERSION: 3.2
+/**
+ * CREDITS:
+ * - Dynamic Island UI inspired by Apple Inc.
+ * - Color Extraction logic adapted from Dribbblish Dynamic by:
+ * Julien Maille (https://github.com/JulienMaille)
+ * and the Dribbblish Dynamic contributors.
+ */
 
 (async function DynamicViz() {
     /** * 1. CRITICAL SELECTORS
@@ -188,4 +195,5 @@
         animate();
     }
     init();
+
 })();
