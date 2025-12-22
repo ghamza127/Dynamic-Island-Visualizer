@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Dynamic Island Visualizer",
+    "description": "Minimalist pill visualizer with physics. Color extraction logic powered by Dribbblish Dynamic (Julien Maille).",
+    "version": "3.2",
+    "main": "dynamicViz.js",
+    "preview": "preview.png",
+    "readme": "README.md",
+    "authors": [
+        { "name": "ghamza127", "url": "https://github.com/ghamza127" }
+    ],
+    "tags": ["visualizer", "dynamic-island", "audio-reactive", "dribbblish"]
+  }
+]
