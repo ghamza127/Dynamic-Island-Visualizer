@@ -36,12 +36,12 @@ Open your terminal or PowerShell and run the following commands:
 spicetify config extensions dynamicViz.js
 spicetify apply
 ```
-## 📜 Credits & Acknowledgements
+##  Credits & Acknowledgements
 
 * **UI Design**: Inspired by the Apple **Dynamic Island** interface.
 * **Color Logic**: This extension uses a modified version of the Canvas Extractor class from **[Dribbblish Dynamic](https://github.com/JulienMaille/dribbblish-dynamic-theme)**. Huge thanks to **Julien Maille** and the contributors of that project for their robust approach to color sourcing in Spotify.
 
 ---
 
-## ⚖️ License
+##  License
 This project is open-source. If you use the color extraction logic in your own projects, please continue to credit the original Dribbblish Dynamic authors.
