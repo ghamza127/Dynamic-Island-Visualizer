@@ -14,8 +14,10 @@
 * **GPU Optimized**: Utilizes hardware-accelerated CSS transforms (`scaleY`) and `will-change` hints for smooth 60fps performance without taxing your CPU.
 * **Zero-Dependency**: Works perfectly on vanilla Spotify. No specific themes or external CSS frameworks required.
 
-## ⚡ See it in Action
-![Dynamic Island Animation](demo.gif)
+<div align="center">
+  <img src="demo.gif" alt="Dynamic Island Demo" width="400">
+  <p><i>The visualizer in sync with the beat</i></p>
+</div>
 
 ---
 
